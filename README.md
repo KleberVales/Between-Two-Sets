@@ -9,3 +9,5 @@ You are given two arrays of integers. You need to find all integers between thes
 
 The numbers that meet these conditions are referred to as being "between the two sets". Your task is to determine how many such numbers exist.
 
+## 📥 Input Format
+
