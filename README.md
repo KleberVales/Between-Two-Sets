@@ -39,3 +39,9 @@ The numbers that meet these conditions are referred to as being "between the two
 ```
 ## 🔍 Explanation:
 
+- The numbers 4, 8, and 16 satisfy both conditions:
+  - Factors of all elements in a (2, 4): ✅
+  - Divisors of all elements in b (16, 32, 96): ✅
+ 
+Thus, the output is 3.
+
