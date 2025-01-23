@@ -14,4 +14,5 @@ The numbers that meet these conditions are referred to as being "between the two
 1. The first line contains two integers n and m:
    - n: Number of elements in the first array (a).
    - m: Number of elements in the second array (b).
+2. The second line contains n space-separated integers, representing array a.
 
