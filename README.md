@@ -19,3 +19,5 @@ The numbers that meet these conditions are referred to as being "between the two
 
 ## 📤 Output Format
 
+- Print a single integer, representing the count of numbers that are between the two sets.
+
