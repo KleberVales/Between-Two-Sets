@@ -15,4 +15,5 @@ The numbers that meet these conditions are referred to as being "between the two
    - n: Number of elements in the first array (a).
    - m: Number of elements in the second array (b).
 2. The second line contains n space-separated integers, representing array a.
+3. The third line contains m space-separated integers, representing array b.
 
