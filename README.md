@@ -12,4 +12,5 @@ The numbers that meet these conditions are referred to as being "between the two
 ## 📥 Input Format
 
 1. The first line contains two integers n and m:
+   - n: Number of elements in the first array (a).
 
