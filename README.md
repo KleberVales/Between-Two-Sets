@@ -23,3 +23,12 @@ The numbers that meet these conditions are referred to as being "between the two
 
 ## ✅ Example
 
+### Input:
+```java
+
+2 3
+2 4
+16 32 96
+
+```
+
