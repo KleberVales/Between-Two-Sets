@@ -31,4 +31,10 @@ The numbers that meet these conditions are referred to as being "between the two
 16 32 96
 
 ```
+### Output:
+```java
+
+3
+
+```
 
